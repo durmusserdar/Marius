@@ -1,0 +1,14 @@
+:root{
+    --clr-contrast: #FFF4E0;
+    --clr-primary: #221e30;
+    --clr-primary-100: #3e3a47;
+
+    --ff-primary: "Roboto", sans-serif;
+    --ff-accent: "Playfair Display", sans-serif;
+
+    --top-height: 6em;
+    --grid-spacing: .6em;
+
+    --br-1: 720px;
+    --br-2: 960px;
+}
